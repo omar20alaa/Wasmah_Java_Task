@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OmarAlaaTask</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Repositories</string>
+    <string name="tab_text_2">Map</string>
+    <string name="empty">Repos are empty now</string>
+    <string name="Views">Views</string>
+    <string name="Link">Link</string>
+    <string name="Jeff">Jeff Kelly GitHub Repositories</string>
+    <string name="google_maps_API_key">AIzaSyBDBC_RpmBTDVO28KhLgqmGmai78UuOtX8</string>
+    <string name="Error">Enable Device Location</string>
+    <string name="Fail">Failed Try Again</string>
+    <string name="added">Added To Favourite</string>
+    <string name="Fav">Favourite Countries</string>
+
+
+</resources>
